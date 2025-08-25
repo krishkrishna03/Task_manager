@@ -35,7 +35,7 @@ A modern, responsive task management dashboard built with React, TypeScript, and
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/krishkrishna03/Task_manager>
    cd task-management-dashboard
    ```
 
